@@ -96,6 +96,9 @@ svg {
 }
 
 /*Styling*/
+.mainBG {
+  margin: auto;  
+}
 
 .preview-card {
     --max-width: 340px;
@@ -103,7 +106,7 @@ svg {
 
 
     width: min(var(--max-width), 100% - var(--preview-card-padding)*2);
-    margin: auto;
+    margin-inline: auto;
     padding: var(--size-50);
     border-radius: var(--size-25);
     box-shadow: -.2em .2em 2em 1em var(--clr-primary-50);
