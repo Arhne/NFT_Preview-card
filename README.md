@@ -25,7 +25,7 @@ My objectives for this project is to enable users to be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://arhne.github.io/NFT_Preview-card/)
+- Live Site URL: [Live site URL here](https://arhne.github.io/NFT_Preview-card/)
 
 ## My process
 
