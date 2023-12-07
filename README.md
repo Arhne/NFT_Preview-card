@@ -9,7 +9,6 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -26,7 +25,7 @@ My objectives for this project is to enable users to be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://arhne.github.io/NFT_Preview-card/)
 
 ## My process
 
@@ -36,28 +35,6 @@ My objectives for this project is to enable users to be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-
-
-### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
 
 ## Author
 
